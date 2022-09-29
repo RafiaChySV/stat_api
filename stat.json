@@ -1,12 +1,11 @@
 {
 	"success": true,
 	"message": "success",
-	"data": {
-		"stat": {
+	"data": "",
+	"stat": {
 			"last_day_donation": 23.7,
 			"total_donations": 5000,
 			"total_projects": 85,
 			"last_three_months_project": 15
 		}
-	}
 }
