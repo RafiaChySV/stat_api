@@ -3,7 +3,7 @@
 	"message": "success",
 	"data": "app statistics",
 	 "stat": {
-		"last_day_donation": 23.7,
+		"last_day_donation": 23,
 		"total_donations": 5000,
 		"total_projects": 85,
 		"last_three_months_project": 15
