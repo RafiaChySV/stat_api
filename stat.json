@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"message": "success",
-	"data": "",
+	"data": "app statistics",
 	 "stat": {
 		"last_day_donation": 23.7,
 		"total_donations": 5000,
